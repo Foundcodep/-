@@ -5,20 +5,20 @@ app_id = "wx5937ee36018186a8"
 app_secret = "f8ba6de1b4efaf1dab532417209b414f"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "GbxmBJsoXhlQ0tFIP0gXhgQVaA-W2JuNd6yL1FDD160"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "locbVaWLbK3uv0hH22yZHLX4oOJf1i6ShwAy0DDSVgk"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "rSzKnU0BgDp73sy_MCgrGEQeraEsk4xRSYzWoVqlJCQ"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oqUzq6LLAdrZA_xfWjmQZM7DLrZw"]
 
 # 信息配置
 # 所在省份
-province = "四川"
+province = "河北"
 # 所在城市
-city = "绵阳"
+city = "保定"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
 birthday = "2022-9-9"
 # 在一起的日子，格式同上------------计时器
