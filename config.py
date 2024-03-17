@@ -1,8 +1,8 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx5937ee36018186a8"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "f8ba6de1b4efaf1dab532417209b414f"
 # 模板消息id
 # 每日消息
 template_id1 = "wX-************************************"
