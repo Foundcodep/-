@@ -71,7 +71,7 @@ def get_Week_Classes(w):
 
 
 # 获取今日课程
-def get_Today_Class():
+def get_Today_Class(d):
     year = localtime().tm_year
     month = localtime().tm_mon
     day = localtime().tm_mday
