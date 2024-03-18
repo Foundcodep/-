@@ -7,9 +7,9 @@ app_secret = "f8ba6de1b4efaf1dab532417209b414f"
 # 每日消息
 template_id1 = "FFZTVc1fXR4UhwXsiM-AEpTVHIx1IDrHkXjFaih1OI4"
 # 课程消息,上课提醒
-template_id2 = ""
+template_id2 = "EwC229R7bU1sfAUhhwoKBYji03X9PP9ZyOoo2cxyG2w"
 # 晚安心语
-template_id3 = "rSzKnU0BgDp73sy_MCgrGEQeraEsk4xRSYzWoVqlJCQ"
+template_id3 = "SulN242GQHkUe8kZHai6SLqoTxKNvbCs_XGxnGGoD9I"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["oqUzq6LLAdrZA_xfWjmQZM7DLrZw"]
@@ -29,7 +29,7 @@ good_Night_Key = "4082bfd944c******************"
 # 设置学期第一周开始日期
 year = 2024
 month = 3
-day = 18
+day = 1
 # 每日推送时间
 post_Time = "07:35:00"
 # 每节课提醒时间（有课才会提醒）, 时:分:秒  的形式, 字符串, 根据个人需要设置几次
